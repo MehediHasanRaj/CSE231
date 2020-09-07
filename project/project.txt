@@ -1,0 +1,1 @@
+this is for seven segment display project that shows "16j1L03" for 000 to 110 and 111 is donot care input bit
